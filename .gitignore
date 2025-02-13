@@ -1,0 +1,24 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Data files
+Data/
+
+# Model files
+Model/
+
+# Temporary files
+*.png
+*.jpg
+*.jpeg
+*.h5
+*.json
+
+# IDE specific files
+.vscode/
+.idea/
